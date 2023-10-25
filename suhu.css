@@ -1,0 +1,60 @@
+body {
+  margin: 20px;
+}
+
+.container {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-group {
+  margin-bottom: 15px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.input-group input[type="number"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.input-group button {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.result {
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.result h2 {
+  margin-top: 0;
+  color: #555;
+}
+
+.result p {
+  margin: 5px 0;
+  color: #777;
+}
